@@ -1,0 +1,271 @@
+Country Name,Capacity,Year,Production,Demand,,
+China,3950.1,2012,,2979,China,
+Japan,343,2012,222,258.9,Japan,
+Korea,155,2012,105.6,133.6,Korea,
+Taiwan,198,2012,138,109.5,Taiwan,
+Australia,31,2012,22.5,26.2,North Korea,1.6
+Indonesia,233,2012,2012,145.6,Australia,
+Malaysia,38,2012,27.5,40.4,Indonesia,
+Philippines,59,2012,34,44.1,Malaysia,
+Thailand,167,2012,101,63.7,Philippnes,
+Vietnam,74,2012,54.7,56.3,Singapore,17.9
+India,541.8,2012,318.9,254.6,Thailand,
+Pakistan,51.5,2012,34,40,Vietnam,
+Bangladesh,0,2012,0,17,Myanmar,7
+Iran ,122,2012,90.7,76,New Zealand,4.1
+Israel,18,2012,14.8,12,Others,1.2
+Jordan,4,2012,1,11.5,India,
+Oman,53,2012,36,4.4,Pakistan,
+Saudi Arabia,98,2012,80,41,Bangladesh,
+Turkey,243,2012,170,138.3,Sri Lanka,7.3
+United Arab Emirates,48,2012,40,34,Nepal,2.3
+Algeria,0,2012,0,16,Iran,
+Egypt,99,2012,75.6,48,Israel,
+Nigeria,30,2012,15,44,Jordan,
+South Africa,12,2012,8,32,Oman,
+France,37,2012,33.5,82,Saudi Arabia,
+Germany,90,2012,75.8,105,Syria,5
+Italy,426,2012,339.3,187.6,Turkey,
+UK,67,2012,60,88,United arab Emirates,
+Benelux,140,2012,114,74,Afghanistan,0.5
+Finland,2,2012,1.8,10.5,Iraq,5
+Spain,54,2012,36,,Kuwait,2
+Greece,36,2012,24.8,,Lebanon,9
+Portugal,48,2012,41,,Qatar,0.5
+Bulgaria,27.5,2012,25.3,,Yemen,2.6
+Slovakia,15,2012,14,,Bahrain,0.6
+Hungary,41,2012,31,,Algeria,
+Poland,53,2012,25,,Egypt,
+Romania,5,2012,2,,Morocco,7.9
+Belarus,10,2012,8.5,,Tunisia,6.6
+Kazakhstan,0,2012,0,,South Africa,
+Russia,136,2012,83,,Kenya,4.5
+Turkmenistan,0,2012,0,,Mozambique,0.7
+Ukraine,15.8,2012,11.7,,Nigeria,
+Canada,55.2,2012,45,,Tanzania,4.8
+Mexico,208,2012,148.7,,Uganda,2.1
+USA,441.5,2012,384.3,,Ethiopia,1.2
+Argentina,92,2012,43,,Zimbabwe,1.1
+Brazil,174,2012,123.5,,Other Africa,16
+Chile,30,2012,20,,France,
+Colombia,40,2012,35,,Germany,
+Ecuador,32,2012,23,,Italy,
+El Salvador,0,2012,0,,UK,
+Peru,120,2012,65,,Benelux,
+Venezuela,16,2012,9,,Denmark,4.5
+China,5669,2016,3123.1,,Finland,
+Japan,304,2016,201,,Norway,4.2
+Korea,196,2016,150,,Sweden,5.3
+Taiwan,748,2016,161,,Spain,77
+Australia,25,2016,19,,Austria,11.8
+Indonesia,292,2016,203.4,,Greece,26
+Malaysia,38,2016,25.4,,Ireland,4.4
+Philippines,49,2016,30,,Portugal,12
+Thailand,235,2016,107,,Switzerland,13.3
+Vietnam,109,2016,69,,Other WE,1.5
+India,667.8,2016,446,,Bulgaria,10
+Pakistan,78.5,2016,50.3,,Slovakia,6.5
+Bangladesh,0,2016,0,,Hungary,8.8
+Iran ,130,2016,89,,Poland,80
+Israel,3,2016,2.9,,Romania,12
+Jordan,4,2016,2.5,,Czech Rebublic,12.8
+Oman,53,2016,38,,Slovenia,2.8
+Saudi Arabia,170,2016,124,,Estonia,0.5
+Turkey,320,2016,202,,Latvia,0.8
+United Arab Emirates,48,2016,40,,Lithuania,3.2
+Algeria,0,2016,0,,Croatia,4.1
+Egypt,141,2016,118,,Belarus,9.4
+Nigeria,30,2016,24,,Kazakhstan,8
+South Africa,38,2016,20,,Russia,121.5
+France,30,2016,22,,Serbia,5.5
+Germany,80,2016,63.9,,Turkmenistan,0.4
+Italy,431,2016,318,,Ukraine,37.5
+UK,73,2016,66,,Albania,2.4
+Benelux,120,2016,103,,Bosnia,1.4
+Finland,2,2016,1.9,,Montenergo,2.5
+Spain,54,2016,38,,Former Russian Republics,4.6
+Greece,30,2016,26,,Canada,50
+Portugal,112,2016,76,,Mexico,126.5
+Bulgaria,57.5,2016,47,,USA,452
+Slovakia,19,2016,15,,Argentina,41.6
+Hungary,41,2016,30,,Brazil,135.9
+Poland,53,2016,43,,Chile,19.5
+Romania,5,2016,3.3,,Colombia,36.2
+Belarus,10,2016,9,,Ecuador,13.2
+Kazakhstan,11,2016,5.5,,El Salvador,6.5
+Russia,235,2016,179,,Peru,25.5
+Turkmenistan,0,2016,0,,Venezuela,14.6
+Ukraine,15.8,2016,12.5,,Bolivia,3
+Canada,38,2016,33,,Costa Rica,9
+Mexico,227,2016,157,,Cuba,0.4
+USA,469.5,2016,389,,Diminican Republic,7
+Argentina,92,2016,36,,Guatemala,10
+Brazil,223,2016,146,,Honduras,4.8
+Chile,30,2016,9.5,,Nicaragua,1.2
+Colombia,40,2016,28,,Panama,3
+Ecuador,32,2016,23,,Paraguay,3.3
+El Salvador,35,2016,7,,Uruguay,2.5
+Peru,120,2016,70,,,
+Venezuela,16,2016,8.3,,,
+China,5870,2017,3782,,,
+Japan,309,2017,193,,,
+Korea,199,2017,150,,,
+Taiwan,221.5,2017,155.5,,,
+Australia,25,2017,19,,,
+Indonesia,321,2017,218.5,,,
+Malaysia,73,2017,50,,,
+Philippines,49,2017,29,,,
+Thailand,225,2017,100,,,
+Vietnam,119,2017,74,,,
+India,743.8,2017,490,,,
+Pakistan,98.5,2017,55.5,,,
+Bangladesh,0,2017,0,,,
+Iran ,181,2017,109,,,
+Israel,3,2017,2.9,,,
+Jordan,4,2017,2.5,,,
+Oman,53,2017,40,,,
+Saudi Arabia,170,2017,108,,,
+Turkey,312,2017,182,,,
+United Arab Emirates,48,2017,42,,,
+Algeria,0,2017,0,,,
+Egypt,136,2017,115,,,
+Nigeria,30,2017,23,,,
+South Africa,38,2017,20,,,
+France,30,2017,23,,,
+Germany,80,2017,43.8,,,
+Italy,402,2017,315,,,
+UK,73,2017,68,,,
+Benelux,120,2017,109,,,
+Finland,2,2017,1.8,,,
+Spain,54,2017,39,,,
+Greece,30,2017,23,,,
+Portugal,128,2017,83,,,
+Bulgaria,57.5,2017,51.8,,,
+Slovakia,19,2017,14.6,,,
+Hungary,41,2017,30,,,
+Poland,93,2017,68,,,
+Romania,5,2017,3,,,
+Belarus,10,2017,8.7,,,
+Kazakhstan,11,2017,9,,,
+Russia,240,2017,198,,,
+Turkmenistan,21,2017,2,,,
+Ukraine,15.8,2017,12.5,,,
+Canada,38,2017,33,,,
+Mexico,227,2017,167,,,
+USA,478.5,2017,382,,,
+Argentina,92,2017,39,,,
+Brazil,223,2017,143,,,
+Chile,30,2017,8,,,
+Colombia,40,2017,25,,,
+Ecuador,32,2017,24.3,,,
+El Salvador,70,2017,27,,,
+Peru,120,2017,70,,,
+Venezuela,16,2017,6.6,,,
+China,6422,2018,4026.5,,,
+Japan,319,2018,196,,,
+Korea,199,2018,149,,,
+Taiwan,221.5,2018,155,,,
+Australia,25,2018,19,,,
+Indonesia,321,2018,213,,,
+Malaysia,88,2018,50,,,
+Philippines,49,2018,29,,,
+Thailand,225,2018,105,,,
+Vietnam,119,2018,81,,,
+India,827.8,2018,513,,,
+Pakistan,116.5,2018,55,,,
+Bangladesh,30,2018,15,,,
+Iran ,181,2018,112,,,
+Israel,3,2018,2.9,,,
+Jordan,4,2018,2.5,,,
+Oman,53,2018,40,,,
+Saudi Arabia,170,2018,130,,,
+Turkey,342,2018,223.5,,,
+United Arab Emirates,48,2018,40,,,
+Algeria,40,2018,10,,,
+Egypt,136,2018,115,,,
+Nigeria,30,2018,26,,,
+South Africa,38,2018,20,,,
+France,30,2018,23,,,
+Germany,80,2018,43.8,,,
+Italy,431,2018,331,,,
+UK,73,2018,70,,,
+Benelux,120,2018,108,,,
+Finland,2,2018,1.9,,,
+Spain,54,2018,39,,,
+Greece,30,2018,25,,,
+Portugal,144,2018,103,,,
+Bulgaria,57.5,2018,68.8,,,
+Slovakia,19,2018,14.2,,,
+Hungary,41,2018,30,,,
+Poland,133,2018,96,,,
+Romania,5,2018,3,,,
+Belarus,10,2018,8.5,,,
+Kazakhstan,11,2018,9,,,
+Russia,265,2018,207,,,
+Turkmenistan,21,2018,5,,,
+Ukraine,15.8,2018,12.5,,,
+Canada,38,2018,33,,,
+Mexico,247,2018,157,,,
+USA,478.5,2018,389,,,
+Argentina,92,2018,38,,,
+Brazil,223,2018,145,,,
+Chile,30,2018,10,,,
+Colombia,40,2018,29,,,
+Ecuador,32,2018,24.3,,,
+El Salvador,70,2018,40,,,
+Peru,120,2018,75,,,
+Venezuela,16,2018,5.5,,,
+China,7059,2022,4277,,,
+Japan,319,2022,214,,,
+Korea,199,2022,160,,,
+Taiwan,221.5,2022,150,,,
+Australia,25,2022,19,,,
+Indonesia,317,2022,234,,,
+Malaysia,88,2022,63,,,
+Philippines,49,2022,30,,,
+Thailand,225,2022,137,,,
+Vietnam,119,2022,96,,,
+India,921.8,2022,600.9,,,
+Pakistan,116.5,2022,70,,,
+Bangladesh,40,2022,30,,,
+Iran ,181,2022,132,,,
+Israel,3,2022,2.9,,,
+Jordan,4,2022,2,,,
+Oman,53,2022,42,,,
+Saudi Arabia,170,2022,145,,,
+Turkey,392,2022,255,,,
+United Arab Emirates,48,2022,40,,,
+Algeria,45,2022,25,,,
+Egypt,136,2022,116,,,
+Nigeria,60,2022,45,,,
+South Africa,38,2022,22,,,
+France,30,2022,24,,,
+Germany,80,2022,63.7,,,
+Italy,431,2022,300,,,
+UK,73,2022,70,,,
+Benelux,139,2022,118,,,
+Finland,2,2022,1.9,,,
+Spain,54,2022,39,,,
+Greece,30,2022,25,,,
+Portugal,144,2022,111,,,
+Bulgaria,117.5,2022,80,,,
+Slovakia,19,2022,14,,,
+Hungary,41,2022,30,,,
+Poland,173,2022,130,,,
+Romania,5,2022,3,,,
+Belarus,10,2022,8.5,,,
+Kazakhstan,11,2022,10,,,
+Russia,265,2022,211,,,
+Turkmenistan,21,2022,10,,,
+Ukraine,15.8,2022,12.5,,,
+Canada,38,2022,33,,,
+Mexico,312,2022,225,,,
+USA,538.5,2022,418,,,
+Argentina,92,2022,35,,,
+Brazil,248,2022,153,,,
+Chile,30,2022,10,,,
+Colombia,92,2022,58,,,
+Ecuador,32,2022,23,,,
+El Salvador,70,2022,50,,,
+Peru,120,2022,85,,,
+Venezuela,16,2022,9,,,

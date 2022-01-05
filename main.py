@@ -13,7 +13,7 @@ colors = {
     'background': '#111111',
     'text': '#7FDBFF'
 }
-df = pd.read_csv("/Users/priyanshpradhan/Desktop/My work/Uflex Dashoard/data_clean.csv")
+df = pd.read_csv("data_clean.csv")
 app.layout = dbc.Container(
     [
         dbc.Row(
